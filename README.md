@@ -86,7 +86,7 @@ sudo reboot
 This project uses the **Zymkey4i** for secure operations and to encrypt the root filesystem.
 
 Follow the official setup guide here: 
-https://www.zymbit.com/zmymkey4i-documentation/](https://docs.zymbit.com/getting-started/zymkey4/quickstart/
+https://docs.zymbit.com/getting-started/zymkey4/quickstart/
 https://docs.zymbit.com/tutorials/encrypt-rfs/
 
 This covers:
